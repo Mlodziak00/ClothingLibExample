@@ -10,3 +10,5 @@ The repository contains example assets and data for:
 - Adding the Item into Trinkets Slot (so it can be put into the slot)
 
 Also contains code for adding a new ClothingItem inside ItemInit
+
+For any questions either open an Issue page, or message me on Discord: mlodziak00
